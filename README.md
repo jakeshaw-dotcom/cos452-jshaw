@@ -5,3 +5,5 @@
 [Week 2: Drawing a Point and Moving it](https://jakeshaw-dotcom.github.io/cos452-jshaw/week02/)
 
 [Week 3: Hello Triangles (Making an upside-down cut-off arrow)](https://jakeshaw-dotcom.github.io/cos452-jshaw/week03/)
+
+[Week 4: Attributes & Uniforms](https://jakeshaw-dotcom.github.io/cos452-jshaw/week04/)
