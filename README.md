@@ -7,3 +7,5 @@
 [Week 3: Hello Triangles (Making an upside-down cut-off arrow)](https://jakeshaw-dotcom.github.io/cos452-jshaw/week03/)
 
 [Week 4: Attributes & Uniforms](https://jakeshaw-dotcom.github.io/cos452-jshaw/week04/)
+
+[Week 5: Multiple Triangles](https://jakeshaw-dotcom.github.io/cos452-jshaw/week05/)
