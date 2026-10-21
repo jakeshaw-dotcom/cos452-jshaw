@@ -106,7 +106,7 @@
       const aspect = canvas.width / canvas.height;
       const P = orthographic(-aspect, aspect, -1, 1);
 
-      const V = multiply(scaling(zoom, zoom), translation(-cx, -cy));
+      const V = multiply(translation(-cx, -cy), scaling(zoom, zoom));
 
       
       const M1 = translation(0, 0);
