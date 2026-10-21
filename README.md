@@ -9,3 +9,5 @@
 [Week 4: Attributes & Uniforms](https://jakeshaw-dotcom.github.io/cos452-jshaw/week04/)
 
 [Week 5: Multiple Triangles](https://jakeshaw-dotcom.github.io/cos452-jshaw/week05/)
+
+[Week 6: Transformation Matrices](https://jakeshaw-dotcom.github.io/cos452-jshaw/week06/)
