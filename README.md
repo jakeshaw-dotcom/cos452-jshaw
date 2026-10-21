@@ -11,3 +11,5 @@
 [Week 5: Multiple Triangles](https://jakeshaw-dotcom.github.io/cos452-jshaw/week05/)
 
 [Week 6: Transformation Matrices](https://jakeshaw-dotcom.github.io/cos452-jshaw/week06/)
+
+[Week 7: Camera Basics](https://jakeshaw-dotcom.github.io/cos452-jshaw/week07/)
