@@ -13,3 +13,5 @@
 [Week 6: Transformation Matrices](https://jakeshaw-dotcom.github.io/cos452-jshaw/week06/)
 
 [Week 7: Camera Basics](https://jakeshaw-dotcom.github.io/cos452-jshaw/week07/)
+
+[Week 8: First 3D Object (Cube)](https://jakeshaw-dotcom.github.io/cos452-jshaw/week08/)
