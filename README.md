@@ -18,3 +18,5 @@
 
 [Week 9: Textures](https://jakeshaw-dotcom.github.io/cos452-jshaw/week09/)
 
+[Week 10: Lighting](https://jakeshaw-dotcom.github.io/cos452-jshaw/week10/)
+
