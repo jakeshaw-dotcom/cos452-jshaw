@@ -20,3 +20,4 @@
 
 [Week 10: Lighting](https://jakeshaw-dotcom.github.io/cos452-jshaw/week10/)
 
+[Week 11: Lighting(Continued)](https://jakeshaw-dotcom.github.io/cos452-jshaw/week11/)
